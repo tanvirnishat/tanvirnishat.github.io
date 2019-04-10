@@ -1,0 +1,198 @@
+body
+{
+	background-color: #080705;
+}
+.header
+{
+	background-color: #4C4C9D;
+	margin-bottom: 100px;
+}
+.header h1
+{
+	color: white;
+	font-family: sans-serif;
+	text-transform: uppercase;
+	font-weight: 200;
+	margin-top: 40px;
+	padding-left: 20px;
+	float: left;
+	width: 80%;
+}
+.name 
+{
+	padding-top: 100px;
+	text-transform: uppercase;
+	font-family: sans-serif;
+}
+.name h4
+{
+	text-align:center;
+	font-size: 20px;
+	color: white;
+}
+.name h1
+{
+	text-align:center;
+	font-size: 50px;
+	border: 2px solid white;
+	text-decoration: none;
+	color: white;
+}
+table 
+{
+	margin-top: 80px;
+	text-align: center;
+	border: 2px solid #FCFF4B;
+	font-size: 22px;
+}
+table tr th
+{
+	font-family: sans-serif;
+	font-size: 16px;
+	color: #ff6201;
+}
+table tr td
+{
+	color: white;
+}
+.story
+{
+	font-family: sans-serif;
+	color: black;
+	padding-left: 20px;
+	padding-top: 80px;
+
+}
+.story h1
+{
+	text-align: left;
+	text-transform: uppercase;
+	font-size: 28px;
+	color: white;	
+}
+.story h3
+{
+    text-align: left;
+	text-transform: uppercase;
+	color: #FF6201;
+}
+.plan h1
+{
+	text-align: left;
+	text-transform: uppercase;
+	font-size: 28px;
+	color: white;
+	font-family: sans-serif;	
+}
+.plan h3
+{
+    text-align: left;
+	text-transform: uppercase;
+	color: #FF6201;
+}
+.second
+{
+	padding-top: 40px;
+	text-align: center;
+}
+.second a
+{
+	font-size: 22px;
+	font-family: sans-serif;
+	color: white;
+	text-decoration: none;
+	border: 2px solid white;
+}
+.hometown
+{
+	padding-top: 40px;
+}
+.hometown h1
+{
+	color: white;
+	text-transform: uppercase;
+	text-decoration: underline;
+	font-size: 22px;
+	font-family: sans-serif;
+	padding-left: 20px;
+}
+.hometown h3
+{
+	color: #FF6201;
+	font-size: 22px;
+	font-family: sans-serif;
+	padding-left: 20px;
+}
+.hobbies
+{
+	margin-top: 50px;
+}
+.hobbies h1
+{
+	color: white;
+	text-transform: uppercase;
+	text-decoration: underline;
+	font-family: sans-serif;
+	font-size: 22px;
+	padding-left: 20px;
+
+}
+.hobbies ul
+{
+	margin: 0;
+	padding: 0;
+	display: flex;
+	flex-direction: column;
+
+}
+.hobbies ul li 
+{
+	flex: 1;
+
+	list-style: none;
+	margin: 20px 20px;
+	text-align: center;
+	display: block;
+	padding: 10px;
+	font-family: sans-serif;
+	color: white;
+	text-transform: uppercase;
+	font-size: 22px;
+	border: 2px solid #FF6201;
+}
+.favourite
+{
+	text-align: center;
+	font-family: sans-serif;
+	padding-top: 60px;
+}
+.favourite h1
+{
+	font-size: 22px;
+	color: white;
+	text-transform: uppercase;
+	text-decoration: underline;
+}
+.favourite h3
+{
+	
+	padding-top:30px;
+	font-size: 18px;
+	color: white;
+	text-transform: uppercase;
+
+}
+.first
+{
+	padding-top: 40px;
+	text-align: center;
+}
+.first a
+{
+	font-size: 22px;
+	font-family: sans-serif;
+	color: white;
+	text-decoration: none;
+	border: 2px solid white;
+}
+
